@@ -1,0 +1,3 @@
+Python is easy to learn.
+It is powerful and popular.
+This is a word count tool.
